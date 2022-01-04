@@ -1,0 +1,4 @@
+[submodule "OCA/fsm"]
+	path = OCA/fsm
+	url = git@github.com:OCA/field-service.git
+	branch = 14.0
