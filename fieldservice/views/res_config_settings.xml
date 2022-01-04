@@ -34,10 +34,10 @@
                                 <field name="module_fieldservice_distribution" />
                             </div>
                             <div class="o_setting_right_pane">
-                                <label
+                                <!--label
                                     for="manage_distribution"
                                     string="Manage Distribution"
-                                />
+                                /-->
                                 <div class="text-muted">
                                     Manage your distribution structure
                                 </div>
